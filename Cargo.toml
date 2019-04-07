@@ -1,0 +1,10 @@
+[package]
+name = "xxdd"
+version = "0.1.0"
+authors = ["Forlos <forlos@disroot.org>"]
+edition = "2018"
+
+[dependencies]
+ansi_term = "0.11" 
+prettytable-rs = "0.8.0"
+structopt = "0.2.15"
